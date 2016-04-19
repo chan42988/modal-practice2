@@ -1,0 +1,20 @@
+p {
+  color: red;
+}
+
+#modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  background:rgba(5,25,25,0.8);
+  top:0;
+}
+
+#modal_main {
+  width: 50%;
+  background: white;
+  margin: 24% auto;
+  padding: 20px;
+}
